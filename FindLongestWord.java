@@ -1,3 +1,4 @@
+//only relies on Node.java
 //to run, use: java FindLongestWord [file name]
 import java.util.*;
 import java.io.*;
