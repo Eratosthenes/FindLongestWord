@@ -3,9 +3,10 @@ FindLongestWord
 
 FindLongestWord
 
-Solution Requirements
+Solution Requirements: 
 Write a program that reads a file containing a sorted list of words (one word per line, no spaces, all lower case), then identifies the longest word in the file that can be constructed by concatenating copies of shorter words also found in the file.
-Example
+
+Example:
 cat
 cats
 catsdogcats
